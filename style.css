@@ -1,0 +1,194 @@
+
+/* Start body */
+body {
+    background-image: url(img/bg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    left: 0;
+    top:0;
+    opacity: 1;
+
+}
+
+.clear {
+    clear: both
+}
+/* End body */
+/* Start Header */
+#header {
+    text-align: center
+}
+#header h1 {
+    font-size: 4em;
+    font-weight: 700;
+    line-height: 1em;
+    color: white; 
+
+}
+
+/* End Header */
+
+
+/*Start min*/
+#min {
+    text-align: center;
+    height: 100%;
+    margin: auto  auto;
+    width: 1177px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.logimg {
+    margin-bottom: 0
+}
+.about {
+    text-align: center;  
+    margin: auto;
+    background-color: white;
+    padding-top:30px;
+    
+
+
+}
+.about h1 {
+    margin: 0 35px;
+    background-color: white;
+    font-size: 45px
+}
+.about hr {
+    width: 100px;
+    color:#CEE1EB
+}
+.about h3 {
+    margin-bottom: 35px;
+    letter-spacing: 2px;
+    color: #bbb
+}
+#pabout {
+    background-color :#FAF8F6;
+    text-align: left;
+    padding: 25px
+}
+#pabout p {
+    margin: 25px;
+    padding: 20px;
+    letter-spacing: 1px;
+    color:rgba(0, 0, 0, 0.5);
+    margin-bottom: 0
+    
+}
+/* Start dark */ 
+#dark {
+    background-color: #1E1F23;
+    margin-top: 0;
+    padding-top: 45px
+    
+}
+#dark hr {
+    width: 80px;
+    color: #bbb
+}
+.con {
+    
+    background-color: #121315;
+    color : white ;
+    margin: 0px  auto 0px auto ;
+    width: 1004px;
+    padding-bottom: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px   
+
+}
+.con hr {
+    width: 7;
+    color: #bbb;
+
+}
+.con h4 {
+    color:#bbb;
+    letter-spacing: 1.5px
+}
+#dark h1 {
+    color : white ;
+    background-color: #121315;
+    width: 400px;
+    padding: 25px;
+    font-size: 40px;
+margin: auto
+}
+.image img {
+    width: 500px;
+    
+}
+/*End dark */
+
+/* start get */
+
+.get   {
+float: left;
+ margin: 0;
+ height: 441px;
+ background-color: white
+
+}
+.get div {
+    float: left;
+    width: 50%;
+
+}
+.get img {
+    width: 100%;
+    height: 100%;
+}
+.inner  {
+    text-align: left;
+
+    
+}
+
+.get h3 {
+    padding: 25px 15px;
+    margin-left: 25px;
+    font-size: 30px;
+    
+
+}
+.get p {
+    margin-left:  15px;
+    margin-left: 25px;
+    letter-spacing: 2px;
+    font-size: 21px;    color: #bbb
+
+
+}
+.inner-dark{
+    background-color: #1E1F23;
+    height: 100%;
+    color: #bbb
+}
+.inner-dark h3 {
+    text-align:left ;
+
+}
+
+.inner-dark p {
+    text-align:left ;
+    margin: 22px;
+}   
+
+
+/* End get */ 
+
+/*End min*/
+/* Start Footer */ 
+footer{
+margin: 25px;
+text-align: center;
+color:#bbb;
+font-size: 22px;
+padding-top: 100px
+}
+
+/*end footer */
